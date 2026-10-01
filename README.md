@@ -84,7 +84,7 @@ I enjoy building tools, learning new technologies, and sharing knowledge with th
 
 <div align="center">
 
-<img src="https://h.uguu.se/kNayUGdV.jpg"/>
+<img src="https://h.uguu.se/DwGioKlf.jpg"/>
 
 </div>
 
