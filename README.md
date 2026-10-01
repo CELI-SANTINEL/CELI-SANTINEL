@@ -1,4 +1,4 @@
-<!-- CELI SANTINEL PROFILE -->
+Hi<!-- CELI SANTINEL PROFILE -->
 
 <div align="center">
 
@@ -32,7 +32,7 @@ I enjoy building tools, learning new technologies, and sharing knowledge with th
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,docker,sqlite&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,&perline=8" />
 
 </div>
 
