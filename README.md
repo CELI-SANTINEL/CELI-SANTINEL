@@ -80,11 +80,11 @@ I enjoy building tools, learning new technologies, and sharing knowledge with th
 
 ---
 
-## 🐍 Contributions
+## 💜 Acknowledgements
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CELI-SANTINEL/CELI-SANTINEL/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://h.uguu.se/kNayUGdV.jpg"/>
 
 </div>
 
