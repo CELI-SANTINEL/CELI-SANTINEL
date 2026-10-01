@@ -60,20 +60,13 @@ I enjoy building tools, learning new technologies, and sharing knowledge with th
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I'm Working On
 
-### 🌐 Multipurpose
-Utility toolkit combining multiple useful services into a single interface.
-
-### 🔍 Ghost Tracking
-OSINT-focused project designed for information gathering and research.
-
-### ☁️ Cloudfall
-Automation and reconnaissance framework built for learning and experimentation.
-
-### 🛡️ Security Research
-Exploring open-source tools, security concepts, and ethical cybersecurity practices.
-
+- Building automation tools
+- Learning cybersecurity concepts
+- Exploring OSINT techniques
+- Contributing to open-source projects
+- Improving Linux workflows
 ---
 
 ## 📊 GitHub Statistics
