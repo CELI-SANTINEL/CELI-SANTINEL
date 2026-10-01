@@ -1,4 +1,4 @@
-Hi<!-- CELI SANTINEL PROFILE -->
+<!-- CELI SANTINEL PROFILE -->
 
 <div align="center">
 
@@ -18,17 +18,15 @@ I'm passionate about cybersecurity, OSINT, automation, and open-source technolog
 
 I enjoy building tools, learning new technologies, and sharing knowledge with the community while promoting responsible and ethical security practices.
 
-### 🎯 Interests
+### Interests
 
 - 🔐 Cyber Security & Security Research
 - 🔍 Open Source Intelligence (OSINT)
 - 💻 Python Automation & Tool Development
 - 🐧 Linux, Termux & Open Source Ecosystem
-- 🌐 Networking & Infrastructure
+- 🌐 Networking & InfrastrucScripti
 
----
-
-## 🛠️ Technologies
+## Technologies
 
 <div align="center">
 
@@ -36,21 +34,21 @@ I enjoy building tools, learning new technologies, and sharing knowledge with th
 
 </div>
 
-### 🔐 Security
+### Security
 
 - Security Research
 - Vulnerability Assessment
 - Reconnaissance & OSINT
 - Ethical Security Testing
 
-### 💻 Development
+### Development
 
 - Python
 - Bash Scripting
 - Automation
 - Open Source Projects
 
-### 🐧 Environment
+### Environment
 
 - Linux
 - Kali Linux
@@ -60,7 +58,7 @@ I enjoy building tools, learning new technologies, and sharing knowledge with th
 
 ---
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 - Building automation tools
 - Learning cybersecurity concepts
@@ -90,7 +88,7 @@ I enjoy building tools, learning new technologies, and sharing knowledge with th
 
 ---
 
-## 💬 Philosophy
+## Philosophy
 
 > *Technology should empower people, while security should protect them.*
 
@@ -98,7 +96,7 @@ I enjoy building tools, learning new technologies, and sharing knowledge with th
 
 ---
 
-## 📫 Connect
+## Connect
 
 <div align="center">
 
