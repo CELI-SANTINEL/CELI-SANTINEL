@@ -30,7 +30,7 @@ I enjoy building tools, learning new technologies, and sharing knowledge with th
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,&perline=8,html" />
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,html&perline=8," />
 
 </div>
 
