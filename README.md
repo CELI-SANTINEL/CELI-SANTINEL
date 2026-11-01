@@ -66,12 +66,22 @@ I enjoy building tools, learning new technologies, and sharing knowledge with th
 - Improving Linux workflows
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CELI-SANTINEL&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CELI-SANTINEL&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=CELI-SANTINEL&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github"
+    height="180"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CELI-SANTINEL&layout=compact&theme=radical&hide_border=true&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
 
 </div>
 
